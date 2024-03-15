@@ -2,11 +2,11 @@
 Fetching the Data 
 
 # Functional Requirements:
-● Login to the website and create your app_id.
-● Use your app_id in the APIs below to get data.
-● Fetched Users data using this api - https://dummyapi.io/data/v1/user and stored it in the
+- Loggedin to the website and created my app_id.
+- Used my app_id in the APIs below to get data.
+- Fetched Users data using this api - https://dummyapi.io/data/v1/user and stored it in the
 users table in Database.
-● Fetched users list from Database and fetched their corresponding posts data using this
+- Fetched users list from Database and fetched their corresponding posts data using this
 api - https://dummyapi.io/data/v1/user/{{user_id}}/post and stored it in the database.
 
 # Tech Stack
