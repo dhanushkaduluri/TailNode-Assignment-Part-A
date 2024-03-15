@@ -1,6 +1,8 @@
 # TailNode-Assignment-Part-A
 Fetching the Data 
 
+# Part-B Link : https://github.com/dhanushkaduluri/TaliNode-Assignment-Part-B/blob/main/README.md
+
 # Functional Requirements:
 - Loggedin to the website and created my app_id.
 - Used my app_id in the APIs below to get data.
